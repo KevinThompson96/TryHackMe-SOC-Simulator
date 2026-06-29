@@ -1,4 +1,4 @@
-# SOC-Phishing-Simulator-Using-Splunk
+# TryHackMe SOC Phishing Simulator Using Splunk
 In this lab, I reviewed phishing alerts, investigating firewall and proxy logs using Splunk, and wrote short case reports for each alert. 
 
 The goal of this lab was to determine whether each alert was a **true positive** or a **false positive**, provide evidence, and to clearly explain the reasoning behind each decision to reach a conclusion. 
