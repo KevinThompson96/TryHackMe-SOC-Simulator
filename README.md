@@ -87,7 +87,7 @@ A concerning result. It looks like the recipient of the email, c.allen did click
 
 Overall, I correctly identified the true positives and the false positives from the alerts I triaged. 
 
-At the end of the simulation, an analysis of your incident reports for each alert is generated using AI. The general theme of the feedback I received was include a little more information in terms of the 5Ws: Who, What, When, Where, and Why. To get a more comprehensive analysis, I should have been more diligent to include things like the internal and destination IP addresses, firewall activity, lack of observed impact, and whether the suspicious link used a URL shortner. 
+At the end of the simulation, an analysis of your incident reports for each alert is generated using AI. The general theme of the feedback I received was to include a little more information in terms of the 5Ws: Who, What, When, Where, and Why. To get a more comprehensive analysis, I should have been more diligent to include things like the internal and destination IP addresses, firewall activity, lack of observed impact, and whether the suspicious link used a URL shortner. 
 
 These are improvements I will take with me when I run this lab again. 
 
